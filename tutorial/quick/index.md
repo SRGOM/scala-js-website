@@ -86,7 +86,7 @@ object HelloWorld extends JSApp {
 
 Phew! That was it. You only ever have to change HelloWorld.scala from now on, or make one-liner changes in build.sbt. 
 
-Run: `sbt fastOptJS` from the command line inside ScalaJSHelloWorld directory. You should see an output like this. 
+Run: `sbt fastOptJS` from the command line inside ScalaJSHelloWorld directory. This may take some time the first time. You should see an output like this. 
 
 ```
     [info] Fast optimizing (...)/scalajs-hello-world/target/scala-2.11/scalajs-hello-world-fastopt.js
